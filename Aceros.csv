@@ -1,0 +1,21 @@
+Nombre del acero,Contenido de carbono (%),Propiedad mecánica destacada
+Acero al bajo carbono (AISI 1018),0.15-0.20,Alta ductilidad y facilidad de mecanizado
+Acero al medio carbono (AISI 1045),0.43-0.50,Buena resistencia y tenacidad
+Acero al alto carbono (AISI 1095),0.90-1.03,Alta dureza y resistencia al desgaste
+Acero inoxidable martensítico (AISI 420),0.15-0.45,Alta dureza y resistencia a la corrosión
+Acero inoxidable austenítico (AISI 304),0.08 máx,Excelente resistencia a la corrosión
+Acero inoxidable ferrítico (AISI 430),0.12 máx,Resistencia a la corrosión moderada y estabilidad térmica
+Acero inoxidable dúplex (2205),0.03 máx,Alta resistencia mecánica y a la corrosión
+Acero de herramienta (D2),1.40-1.60,Alta dureza y resistencia al desgaste
+Acero de resorte (SAE 5160),0.56-0.64,Alta elasticidad y resistencia a la fatiga
+Acero para construcción (ASTM A36),0.25 máx,Buena resistencia y soldabilidad
+Acero de alta velocidad (M2),0.78-1.05,Excelente resistencia al desgaste en aplicaciones de corte
+Acero al boro (SAE 15B30),0.28-0.34,Alta resistencia tras el tratamiento térmico
+Acero al manganeso (Hadfield),1.00-1.25,Alta resistencia al impacto y al desgaste
+Acero para recipientes a presión (SA 516 Gr 70),0.20-0.30,Alta resistencia a la presión y ductilidad
+Acero microaleado (SAE 8620),0.18-0.23,Alta tenacidad y resistencia al desgaste
+Acero al silicio (Electrical Steel),0.05-0.10,Alta conductividad magnética y baja pérdida de energía
+Acero estructural (S355),0.22 máx,Buena resistencia y ductilidad
+Acero inoxidable endurecido por precipitación (17-4PH),0.07 máx,Alta resistencia mecánica tras envejecimiento
+Acero recubierto de zinc (Galvanizado),Variable,Resistencia a la corrosión gracias al recubrimiento
+Acero inoxidable superdúplex (2507),0.03 máx,Excelente resistencia mecánica y a la corrosión
